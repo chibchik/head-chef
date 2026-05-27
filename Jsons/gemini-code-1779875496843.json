@@ -1,0 +1,540 @@
+{
+  "Products": [
+    {
+      "Name": "Пельмені",
+      "Price": 120.00,
+      "QuantityInStock": 10.0,
+      "ExpirationDate": "2026-08-15T00:00:00"
+    },
+    {
+      "Name": "Томатна паста",
+      "Price": 85.50,
+      "QuantityInStock": 5.0,
+      "ExpirationDate": "2027-01-10T00:00:00"
+    },
+    {
+      "Name": "Олія соняшникова",
+      "Price": 65.00,
+      "QuantityInStock": 3.0,
+      "ExpirationDate": "2027-02-20T00:00:00"
+    },
+    {
+      "Name": "Картопля",
+      "Price": 25.00,
+      "QuantityInStock": 20.0,
+      "ExpirationDate": "2026-09-01T00:00:00"
+    },
+    {
+      "Name": "Морква",
+      "Price": 30.00,
+      "QuantityInStock": 15.0,
+      "ExpirationDate": "2026-09-01T00:00:00"
+    },
+    {
+      "Name": "Цибуля",
+      "Price": 35.00,
+      "QuantityInStock": 10.0,
+      "ExpirationDate": "2026-10-01T00:00:00"
+    },
+    {
+      "Name": "Куряче філе",
+      "Price": 180.00,
+      "QuantityInStock": 5.0,
+      "ExpirationDate": "2026-06-05T00:00:00"
+    },
+    {
+      "Name": "Макарони",
+      "Price": 55.00,
+      "QuantityInStock": 8.0,
+      "ExpirationDate": "2027-05-01T00:00:00"
+    },
+    {
+      "Name": "Сир твердий",
+      "Price": 320.00,
+      "QuantityInStock": 2.0,
+      "ExpirationDate": "2026-07-10T00:00:00"
+    },
+    {
+      "Name": "Яйця",
+      "Price": 65.00,
+      "QuantityInStock": 30.0,
+      "ExpirationDate": "2026-06-20T00:00:00"
+    },
+    {
+      "Name": "Молоко",
+      "Price": 40.00,
+      "QuantityInStock": 5.0,
+      "ExpirationDate": "2026-06-01T00:00:00"
+    },
+    {
+      "Name": "Борошно",
+      "Price": 25.00,
+      "QuantityInStock": 10.0,
+      "ExpirationDate": "2027-01-01T00:00:00"
+    },
+    {
+      "Name": "Цукор",
+      "Price": 35.00,
+      "QuantityInStock": 10.0,
+      "ExpirationDate": "2028-01-01T00:00:00"
+    }
+  ],
+  "Recipes": [
+    {
+      "Name": "Смажені пельмені в томатному соусі",
+      "RecipeText": "Розігрійте сковороду з олією. Обсмажте пельмені до золотистої скоринки. Додайте томатну пасту, трохи води і тушкуйте під кришкою 10 хвилин.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Пельмені",
+            "Price": 120.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2026-08-15T00:00:00"
+          },
+          "RequiredQuantity": 0.25
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Томатна паста",
+            "Price": 85.50,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.02
+        }
+      ]
+    },
+    {
+      "Name": "Смажена картопля з цибулею",
+      "RecipeText": "Очистіть картоплю та цибулю. Наріжте соломкою. Смажте на розігрітій з олією сковороді до готовності.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Картопля",
+            "Price": 25.00,
+            "QuantityInStock": 20.0,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "RequiredQuantity": 0.5
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Цибуля",
+            "Price": 35.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.03
+        }
+      ]
+    },
+    {
+      "Name": "Курячі відбивні",
+      "RecipeText": "Наріжте куряче філе на порції та відбийте. Обваляйте у борошні, потім у збитих яйцях. Смажте на олії з обох боків.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Куряче філе",
+            "Price": 180.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "RequiredQuantity": 0.3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Яйця",
+            "Price": 65.00,
+            "QuantityInStock": 30.0,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "RequiredQuantity": 2.0
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Борошно",
+            "Price": 25.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2027-01-01T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.04
+        }
+      ]
+    },
+    {
+      "Name": "Макарони з сиром",
+      "RecipeText": "Відваріть макарони у підсоленій воді. Злийте воду, додайте натертий твердий сир та перемішайте.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Макарони",
+            "Price": 55.00,
+            "QuantityInStock": 8.0,
+            "ExpirationDate": "2027-05-01T00:00:00"
+          },
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Сир твердий",
+            "Price": 320.00,
+            "QuantityInStock": 2.0,
+            "ExpirationDate": "2026-07-10T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Омлет",
+      "RecipeText": "Збийте яйця з молоком. Вилийте суміш на змащену олією сковороду і готуйте під кришкою.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Яйця",
+            "Price": 65.00,
+            "QuantityInStock": 30.0,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "RequiredQuantity": 3.0
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Молоко",
+            "Price": 40.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.01
+        }
+      ]
+    },
+    {
+      "Name": "Млинці класичні",
+      "RecipeText": "Змішайте яйця, молоко, борошно та цукор до однорідного тіста. Смажте млинці на олії з обох боків.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Яйця",
+            "Price": 65.00,
+            "QuantityInStock": 30.0,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "RequiredQuantity": 2.0
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Молоко",
+            "Price": 40.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "RequiredQuantity": 0.5
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Борошно",
+            "Price": 25.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2027-01-01T00:00:00"
+          },
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Цукор",
+            "Price": 35.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2028-01-01T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.02
+        }
+      ]
+    },
+    {
+      "Name": "Картопляне пюре",
+      "RecipeText": "Відваріть картоплю до готовності. Злийте воду, розімніть картоплю, додавши гаряче молоко.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Картопля",
+            "Price": 25.00,
+            "QuantityInStock": 20.0,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "RequiredQuantity": 0.6
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Молоко",
+            "Price": 40.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "RequiredQuantity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Курка тушкована з овочами",
+      "RecipeText": "Обсмажте шматочки курки з нарізаною цибулею та морквою. Додайте томатну пасту і тушкуйте 25 хвилин.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Куряче філе",
+            "Price": 180.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "RequiredQuantity": 0.4
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Морква",
+            "Price": 30.00,
+            "QuantityInStock": 15.0,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Цибуля",
+            "Price": 35.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Томатна паста",
+            "Price": 85.50,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.03
+        }
+      ]
+    },
+    {
+      "Name": "Сирний суп",
+      "RecipeText": "Зваріть бульйон з курки та картоплі. Додайте засмажку з цибулі та моркви, а наприкінці – натертий твердий сир.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Куряче філе",
+            "Price": 180.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Картопля",
+            "Price": 25.00,
+            "QuantityInStock": 20.0,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "RequiredQuantity": 0.3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Морква",
+            "Price": 30.00,
+            "QuantityInStock": 15.0,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Цибуля",
+            "Price": 35.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Сир твердий",
+            "Price": 320.00,
+            "QuantityInStock": 2.0,
+            "ExpirationDate": "2026-07-10T00:00:00"
+          },
+          "RequiredQuantity": 0.15
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.02
+        }
+      ]
+    },
+    {
+      "Name": "Яєчня з томатами",
+      "RecipeText": "Прогрійте томатну пасту на сковороді з олією, розбийте зверху яйця і смажте до готовності жовтків.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Яйця",
+            "Price": 65.00,
+            "QuantityInStock": 30.0,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "RequiredQuantity": 3.0
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Томатна паста",
+            "Price": 85.50,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Олія соняшникова",
+            "Price": 65.00,
+            "QuantityInStock": 3.0,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "RequiredQuantity": 0.02
+        }
+      ]
+    },
+    {
+      "Name": "Солодкі макарони",
+      "RecipeText": "Відваріть макарони, злийте воду. Додайте трохи молока та цукру, прогрійте 1 хвилину.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "Макарони",
+            "Price": 55.00,
+            "QuantityInStock": 8.0,
+            "ExpirationDate": "2027-05-01T00:00:00"
+          },
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Молоко",
+            "Price": 40.00,
+            "QuantityInStock": 5.0,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "Цукор",
+            "Price": 35.00,
+            "QuantityInStock": 10.0,
+            "ExpirationDate": "2028-01-01T00:00:00"
+          },
+          "RequiredQuantity": 0.03
+        }
+      ]
+    }
+  ],
+  "Menu": {
+    "Date": "2026-05-26T00:00:00",
+    "PersonsCount": 1,
+    "SelectedDishes": [
+      {
+        "Name": "Смажені пельмені в томатному соусі",
+        "RecipeText": "Розігрійте сковороду з олією. Обсмажте пельмені до золотистої скоринки. Додайте томатну пасту, трохи води і тушкуйте під кришкою 10 хвилин.",
+        "Ingredients": [
+          {
+            "IngredientProduct": {
+              "Name": "Пельмені",
+              "Price": 120.00,
+              "QuantityInStock": 10.0,
+              "ExpirationDate": "2026-08-15T00:00:00"
+            },
+            "RequiredQuantity": 0.25
+          },
+          {
+            "IngredientProduct": {
+              "Name": "Томатна паста",
+              "Price": 85.50,
+              "QuantityInStock": 5.0,
+              "ExpirationDate": "2027-01-10T00:00:00"
+            },
+            "RequiredQuantity": 0.05
+          },
+          {
+            "IngredientProduct": {
+              "Name": "Олія соняшникова",
+              "Price": 65.00,
+              "QuantityInStock": 3.0,
+              "ExpirationDate": "2027-02-20T00:00:00"
+            },
+            "RequiredQuantity": 0.02
+          }
+        ]
+      }
+    ]
+  }
+}
