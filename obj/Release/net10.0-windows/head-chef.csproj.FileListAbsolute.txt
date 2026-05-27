@@ -1,0 +1,17 @@
+C:\Users\ivang\source\repos\head-chef\bin\Release\net10.0-windows\head-chef.exe
+C:\Users\ivang\source\repos\head-chef\bin\Release\net10.0-windows\head-chef.deps.json
+C:\Users\ivang\source\repos\head-chef\bin\Release\net10.0-windows\head-chef.runtimeconfig.json
+C:\Users\ivang\source\repos\head-chef\bin\Release\net10.0-windows\head-chef.dll
+C:\Users\ivang\source\repos\head-chef\bin\Release\net10.0-windows\head-chef.pdb
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head_chef.Form1.resources
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.csproj.GenerateResource.cache
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.AssemblyInfo.cs
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.sourcelink.json
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.dll
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\refint\head-chef.dll
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.pdb
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\head-chef.genruntimeconfig.cache
+C:\Users\ivang\source\repos\head-chef\obj\Release\net10.0-windows\ref\head-chef.dll
