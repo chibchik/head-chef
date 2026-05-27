@@ -1,7 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace head_chef.Models
 {
     // Головний клас для збереження всіх даних програми

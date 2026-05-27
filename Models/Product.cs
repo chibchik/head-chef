@@ -1,15 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.ComponentModel;
 
 namespace head_chef.Models
 {
     // Клас, що описує товар на складі
     public class Product
     {
-        public string Name { get; set; }
+        [DisplayName("Найменування")]
+        public required string Name { get; set; }
+
+        [DisplayName("Ціна (грн.)")]
         public decimal Price { get; set; }
+
+        [DisplayName("Кількість на складі")]
         public double QuantityInStock { get; set; }
+
+        [DisplayName("Термін придатності")]
         public DateTime ExpirationDate { get; set; }
     }
 }

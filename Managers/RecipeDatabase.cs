@@ -1,7 +1,4 @@
-﻿using head_chef.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using head_chef.Models;
 
 namespace head_chef.Managers
 {
@@ -9,7 +6,6 @@ namespace head_chef.Managers
     public class RecipeDatabase
     {
         public List<Dish> Recipes { get; set; }
-
         public RecipeDatabase()
         {
             Recipes = new List<Dish>();
@@ -20,9 +16,15 @@ namespace head_chef.Managers
             Recipes.Add(d);
         }
 
-        public Dish FindRecipe(string name)
+        public void EditRecipe(Dish oldDish, Dish newDish)
         {
-            return Recipes.FirstOrDefault(d => d.Name.Contains(name));
+            var dish = Recipes.Find(d => d == oldDish);
+            if (dish != null)
+            {
+                dish.Name = newDish.Name;
+                dish.RecipeText = newDish.RecipeText;
+                dish.Ingredients = newDish.Ingredients;
+            }
         }
 
         public void DeleteRecipe(Dish d)
