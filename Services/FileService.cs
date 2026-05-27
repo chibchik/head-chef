@@ -5,7 +5,7 @@ namespace head_chef.Services
 {
     public class FileService
     {
-        private string _file = "C:\\Users\\ivang\\source\\repos\\head-chef\\Jsons\\data.json";
+        private readonly string _file = "C:\\Users\\ivang\\source\\repos\\head-chef\\Jsons\\data.json";
         // Збереження будь-якого об'єкта (списку продуктів або рецептів) у форматі JSON
         public void SaveData<T>(T data, string filePath)
         {

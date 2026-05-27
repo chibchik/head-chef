@@ -7,6 +7,7 @@ namespace head_chef
 {
     public partial class Form1 : Form
     {
+        private const string _file = "C:\\Users\\ivang\\source\\repos\\head-chef\\Jsons\\data.json";
         // Оголошуємо змінні для бізнес-логіки та роботи з файлами
         private FileService _fileService;
         private StorageManager _storageManager;
@@ -485,7 +486,7 @@ namespace head_chef
                     Recipes = _recipeDatabase.Recipes,
                     Menu = _dailyMenu
                 };
-                _fileService.SaveData(appData, "C:\\Users\\ivang\\source\\repos\\head-chef\\Jsons\\data.json");
+                _fileService.SaveData(appData, _file);
             }
             catch (Exception ex)
             {
