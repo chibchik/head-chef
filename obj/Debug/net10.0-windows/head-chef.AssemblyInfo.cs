@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("head-chef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b1b8d5010476c8c4a40d603e5bb6c6cc63a47d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5089907dcbe414369854cf9557728b829d43ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("head-chef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("head-chef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
