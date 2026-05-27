@@ -1,0 +1,611 @@
+{
+  "Products": [
+    {
+      "Name": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456",
+      "Price": 120.00,
+      "QuantityInStock": 10,
+      "ExpirationDate": "2026-08-15T00:00:00"
+    },
+    {
+      "Name": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+      "Price": 85.50,
+      "QuantityInStock": 5,
+      "ExpirationDate": "2027-01-10T00:00:00"
+    },
+    {
+      "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+      "Price": 65.00,
+      "QuantityInStock": 3,
+      "ExpirationDate": "2027-02-20T00:00:00"
+    },
+    {
+      "Name": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+      "Price": 25.00,
+      "QuantityInStock": 20,
+      "ExpirationDate": "2026-09-01T00:00:00"
+    },
+    {
+      "Name": "\u041C\u043E\u0440\u043A\u0432\u0430",
+      "Price": 30.00,
+      "QuantityInStock": 15,
+      "ExpirationDate": "2026-09-01T00:00:00"
+    },
+    {
+      "Name": "\u0426\u0438\u0431\u0443\u043B\u044F",
+      "Price": 35.00,
+      "QuantityInStock": 10,
+      "ExpirationDate": "2026-10-01T00:00:00"
+    },
+    {
+      "Name": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+      "Price": 180.00,
+      "QuantityInStock": 5,
+      "ExpirationDate": "2026-06-05T00:00:00"
+    },
+    {
+      "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+      "Price": 55.00,
+      "QuantityInStock": 8,
+      "ExpirationDate": "2027-05-01T00:00:00"
+    },
+    {
+      "Name": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+      "Price": 320.00,
+      "QuantityInStock": 2,
+      "ExpirationDate": "2026-07-10T00:00:00"
+    },
+    {
+      "Name": "\u042F\u0439\u0446\u044F",
+      "Price": 65.00,
+      "QuantityInStock": 30,
+      "ExpirationDate": "2026-06-20T00:00:00"
+    },
+    {
+      "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+      "Price": 40.00,
+      "QuantityInStock": 5,
+      "ExpirationDate": "2026-06-01T00:00:00"
+    },
+    {
+      "Name": "\u0411\u043E\u0440\u043E\u0448\u043D\u043E",
+      "Price": 25.00,
+      "QuantityInStock": 10,
+      "ExpirationDate": "2027-01-01T00:00:00"
+    },
+    {
+      "Name": "\u0426\u0443\u043A\u043E\u0440",
+      "Price": 35.00,
+      "QuantityInStock": 10,
+      "ExpirationDate": "2028-01-01T00:00:00"
+    }
+  ],
+  "Recipes": [
+    {
+      "Name": "\u0421\u043C\u0430\u0436\u0435\u043D\u0456 \u043F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 \u0432 \u0442\u043E\u043C\u0430\u0442\u043D\u043E\u043C\u0443 \u0441\u043E\u0443\u0441\u0456",
+      "RecipeText": "\u0420\u043E\u0437\u0456\u0433\u0440\u0456\u0439\u0442\u0435 \u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0443 \u0437 \u043E\u043B\u0456\u0454\u044E. \u041E\u0431\u0441\u043C\u0430\u0436\u0442\u0435 \u043F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 \u0434\u043E \u0437\u043E\u043B\u043E\u0442\u0438\u0441\u0442\u043E\u0457 \u0441\u043A\u043E\u0440\u0438\u043D\u043A\u0438. \u0414\u043E\u0434\u0430\u0439\u0442\u0435 \u0442\u043E\u043C\u0430\u0442\u043D\u0443 \u043F\u0430\u0441\u0442\u0443, \u0442\u0440\u043E\u0445\u0438 \u0432\u043E\u0434\u0438 \u0456 \u0442\u0443\u0448\u043A\u0443\u0439\u0442\u0435 \u043F\u0456\u0434 \u043A\u0440\u0438\u0448\u043A\u043E\u044E 10 \u0445\u0432\u0438\u043B\u0438\u043D.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456",
+            "Price": 120.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2026-08-15T00:00:00"
+          },
+          "IngredientName": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456",
+          "RequiredQuantity": 0.25
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+            "Price": 85.50,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "IngredientName": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.02
+        }
+      ],
+      "IngredientDisplay": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 - 0,25,\n\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430 - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,02"
+    },
+    {
+      "Name": "\u0421\u043C\u0430\u0436\u0435\u043D\u0430 \u043A\u0430\u0440\u0442\u043E\u043F\u043B\u044F \u0437 \u0446\u0438\u0431\u0443\u043B\u0435\u044E",
+      "RecipeText": "\u041E\u0447\u0438\u0441\u0442\u0456\u0442\u044C \u043A\u0430\u0440\u0442\u043E\u043F\u043B\u044E \u0442\u0430 \u0446\u0438\u0431\u0443\u043B\u044E. \u041D\u0430\u0440\u0456\u0436\u0442\u0435 \u0441\u043E\u043B\u043E\u043C\u043A\u043E\u044E. \u0421\u043C\u0430\u0436\u0442\u0435 \u043D\u0430 \u0440\u043E\u0437\u0456\u0433\u0440\u0456\u0442\u0456\u0439 \u0437 \u043E\u043B\u0456\u0454\u044E \u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0456 \u0434\u043E \u0433\u043E\u0442\u043E\u0432\u043D\u043E\u0441\u0442\u0456.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+            "Price": 25.00,
+            "QuantityInStock": 20,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "IngredientName": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+          "RequiredQuantity": 0.5
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0426\u0438\u0431\u0443\u043B\u044F",
+            "Price": 35.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "IngredientName": "\u0426\u0438\u0431\u0443\u043B\u044F",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.03
+        }
+      ],
+      "IngredientDisplay": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F - 0,5,\n\u0426\u0438\u0431\u0443\u043B\u044F - 0,1,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,03"
+    },
+    {
+      "Name": "\u041A\u0443\u0440\u044F\u0447\u0456 \u0432\u0456\u0434\u0431\u0438\u0432\u043D\u0456",
+      "RecipeText": "\u041D\u0430\u0440\u0456\u0436\u0442\u0435 \u043A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435 \u043D\u0430 \u043F\u043E\u0440\u0446\u0456\u0457 \u0442\u0430 \u0432\u0456\u0434\u0431\u0438\u0439\u0442\u0435. \u041E\u0431\u0432\u0430\u043B\u044F\u0439\u0442\u0435 \u0443 \u0431\u043E\u0440\u043E\u0448\u043D\u0456, \u043F\u043E\u0442\u0456\u043C \u0443 \u0437\u0431\u0438\u0442\u0438\u0445 \u044F\u0439\u0446\u044F\u0445. \u0421\u043C\u0430\u0436\u0442\u0435 \u043D\u0430 \u043E\u043B\u0456\u0457 \u0437 \u043E\u0431\u043E\u0445 \u0431\u043E\u043A\u0456\u0432.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+            "Price": 180.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "IngredientName": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+          "RequiredQuantity": 0.3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u042F\u0439\u0446\u044F",
+            "Price": 65.00,
+            "QuantityInStock": 30,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "IngredientName": "\u042F\u0439\u0446\u044F",
+          "RequiredQuantity": 2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0411\u043E\u0440\u043E\u0448\u043D\u043E",
+            "Price": 25.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2027-01-01T00:00:00"
+          },
+          "IngredientName": "\u0411\u043E\u0440\u043E\u0448\u043D\u043E",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.04
+        }
+      ],
+      "IngredientDisplay": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435 - 0,3,\n\u042F\u0439\u0446\u044F - 2,\n\u0411\u043E\u0440\u043E\u0448\u043D\u043E - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,04"
+    },
+    {
+      "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 \u0437 \u0441\u0438\u0440\u043E\u043C",
+      "RecipeText": "\u0412\u0456\u0434\u0432\u0430\u0440\u0456\u0442\u044C \u043C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 \u0443 \u043F\u0456\u0434\u0441\u043E\u043B\u0435\u043D\u0456\u0439 \u0432\u043E\u0434\u0456. \u0417\u043B\u0438\u0439\u0442\u0435 \u0432\u043E\u0434\u0443, \u0434\u043E\u0434\u0430\u0439\u0442\u0435 \u043D\u0430\u0442\u0435\u0440\u0442\u0438\u0439 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 \u0441\u0438\u0440 \u0442\u0430 \u043F\u0435\u0440\u0435\u043C\u0456\u0448\u0430\u0439\u0442\u0435.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+            "Price": 55.00,
+            "QuantityInStock": 8,
+            "ExpirationDate": "2027-05-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+            "Price": 320.00,
+            "QuantityInStock": 2,
+            "ExpirationDate": "2026-07-10T00:00:00"
+          },
+          "IngredientName": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+          "RequiredQuantity": 0.1
+        }
+      ],
+      "IngredientDisplay": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 - 0,2,\n\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 - 0,1"
+    },
+    {
+      "Name": "\u041E\u043C\u043B\u0435\u0442",
+      "RecipeText": "\u0417\u0431\u0438\u0439\u0442\u0435 \u044F\u0439\u0446\u044F \u0437 \u043C\u043E\u043B\u043E\u043A\u043E\u043C. \u0412\u0438\u043B\u0438\u0439\u0442\u0435 \u0441\u0443\u043C\u0456\u0448 \u043D\u0430 \u0437\u043C\u0430\u0449\u0435\u043D\u0443 \u043E\u043B\u0456\u0454\u044E \u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0443 \u0456 \u0433\u043E\u0442\u0443\u0439\u0442\u0435 \u043F\u0456\u0434 \u043A\u0440\u0438\u0448\u043A\u043E\u044E.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u042F\u0439\u0446\u044F",
+            "Price": 65.00,
+            "QuantityInStock": 30,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "IngredientName": "\u042F\u0439\u0446\u044F",
+          "RequiredQuantity": 3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+            "Price": 40.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u043E\u043B\u043E\u043A\u043E",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.01
+        }
+      ],
+      "IngredientDisplay": "\u042F\u0439\u0446\u044F - 3,\n\u041C\u043E\u043B\u043E\u043A\u043E - 0,1,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,01"
+    },
+    {
+      "Name": "\u041C\u043B\u0438\u043D\u0446\u0456 \u043A\u043B\u0430\u0441\u0438\u0447\u043D\u0456",
+      "RecipeText": "\u0417\u043C\u0456\u0448\u0430\u0439\u0442\u0435 \u044F\u0439\u0446\u044F, \u043C\u043E\u043B\u043E\u043A\u043E, \u0431\u043E\u0440\u043E\u0448\u043D\u043E \u0442\u0430 \u0446\u0443\u043A\u043E\u0440 \u0434\u043E \u043E\u0434\u043D\u043E\u0440\u0456\u0434\u043D\u043E\u0433\u043E \u0442\u0456\u0441\u0442\u0430. \u0421\u043C\u0430\u0436\u0442\u0435 \u043C\u043B\u0438\u043D\u0446\u0456 \u043D\u0430 \u043E\u043B\u0456\u0457 \u0437 \u043E\u0431\u043E\u0445 \u0431\u043E\u043A\u0456\u0432.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u042F\u0439\u0446\u044F",
+            "Price": 65.00,
+            "QuantityInStock": 30,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "IngredientName": "\u042F\u0439\u0446\u044F",
+          "RequiredQuantity": 2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0411\u043E\u0440\u043E\u0448\u043D\u043E",
+            "Price": 25.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2027-01-01T00:00:00"
+          },
+          "IngredientName": "\u0411\u043E\u0440\u043E\u0448\u043D\u043E",
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0426\u0443\u043A\u043E\u0440",
+            "Price": 35.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2028-01-01T00:00:00"
+          },
+          "IngredientName": "\u0426\u0443\u043A\u043E\u0440",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.02
+        }
+      ],
+      "IngredientDisplay": "\u042F\u0439\u0446\u044F - 2,\n\u0411\u043E\u0440\u043E\u0448\u043D\u043E - 0,2,\n\u0426\u0443\u043A\u043E\u0440 - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,02"
+    },
+    {
+      "Name": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F\u043D\u0435 \u043F\u044E\u0440\u0435",
+      "RecipeText": "\u0412\u0456\u0434\u0432\u0430\u0440\u0456\u0442\u044C \u043A\u0430\u0440\u0442\u043E\u043F\u043B\u044E \u0434\u043E \u0433\u043E\u0442\u043E\u0432\u043D\u043E\u0441\u0442\u0456. \u0417\u043B\u0438\u0439\u0442\u0435 \u0432\u043E\u0434\u0443, \u0440\u043E\u0437\u0456\u043C\u043D\u0456\u0442\u044C \u043A\u0430\u0440\u0442\u043E\u043F\u043B\u044E, \u0434\u043E\u0434\u0430\u0432\u0448\u0438 \u0433\u0430\u0440\u044F\u0447\u0435 \u043C\u043E\u043B\u043E\u043A\u043E.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+            "Price": 25.00,
+            "QuantityInStock": 20,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "IngredientName": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+          "RequiredQuantity": 0.6
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+            "Price": 40.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u043E\u043B\u043E\u043A\u043E",
+          "RequiredQuantity": 0.15
+        }
+      ],
+      "IngredientDisplay": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F - 0,6,\n\u041C\u043E\u043B\u043E\u043A\u043E - 0,15"
+    },
+    {
+      "Name": "\u041A\u0443\u0440\u043A\u0430 \u0442\u0443\u0448\u043A\u043E\u0432\u0430\u043D\u0430 \u0437 \u043E\u0432\u043E\u0447\u0430\u043C\u0438",
+      "RecipeText": "\u041E\u0431\u0441\u043C\u0430\u0436\u0442\u0435 \u0448\u043C\u0430\u0442\u043E\u0447\u043A\u0438 \u043A\u0443\u0440\u043A\u0438 \u0437 \u043D\u0430\u0440\u0456\u0437\u0430\u043D\u043E\u044E \u0446\u0438\u0431\u0443\u043B\u0435\u044E \u0442\u0430 \u043C\u043E\u0440\u043A\u0432\u043E\u044E. \u0414\u043E\u0434\u0430\u0439\u0442\u0435 \u0442\u043E\u043C\u0430\u0442\u043D\u0443 \u043F\u0430\u0441\u0442\u0443 \u0456 \u0442\u0443\u0448\u043A\u0443\u0439\u0442\u0435 25 \u0445\u0432\u0438\u043B\u0438\u043D.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+            "Price": 180.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "IngredientName": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+          "RequiredQuantity": 0.4
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u043E\u0440\u043A\u0432\u0430",
+            "Price": 30.00,
+            "QuantityInStock": 15,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u043E\u0440\u043A\u0432\u0430",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0426\u0438\u0431\u0443\u043B\u044F",
+            "Price": 35.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "IngredientName": "\u0426\u0438\u0431\u0443\u043B\u044F",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+            "Price": 85.50,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "IngredientName": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.03
+        }
+      ],
+      "IngredientDisplay": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435 - 0,4,\n\u041C\u043E\u0440\u043A\u0432\u0430 - 0,1,\n\u0426\u0438\u0431\u0443\u043B\u044F - 0,1,\n\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430 - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,03"
+    },
+    {
+      "Name": "\u0421\u0438\u0440\u043D\u0438\u0439 \u0441\u0443\u043F",
+      "RecipeText": "\u0417\u0432\u0430\u0440\u0456\u0442\u044C \u0431\u0443\u043B\u044C\u0439\u043E\u043D \u0437 \u043A\u0443\u0440\u043A\u0438 \u0442\u0430 \u043A\u0430\u0440\u0442\u043E\u043F\u043B\u0456. \u0414\u043E\u0434\u0430\u0439\u0442\u0435 \u0437\u0430\u0441\u043C\u0430\u0436\u043A\u0443 \u0437 \u0446\u0438\u0431\u0443\u043B\u0456 \u0442\u0430 \u043C\u043E\u0440\u043A\u0432\u0438, \u0430 \u043D\u0430\u043F\u0440\u0438\u043A\u0456\u043D\u0446\u0456 \u2013 \u043D\u0430\u0442\u0435\u0440\u0442\u0438\u0439 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 \u0441\u0438\u0440.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+            "Price": 180.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-05T00:00:00"
+          },
+          "IngredientName": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435",
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+            "Price": 25.00,
+            "QuantityInStock": 20,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "IngredientName": "\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F",
+          "RequiredQuantity": 0.3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u043E\u0440\u043A\u0432\u0430",
+            "Price": 30.00,
+            "QuantityInStock": 15,
+            "ExpirationDate": "2026-09-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u043E\u0440\u043A\u0432\u0430",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0426\u0438\u0431\u0443\u043B\u044F",
+            "Price": 35.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2026-10-01T00:00:00"
+          },
+          "IngredientName": "\u0426\u0438\u0431\u0443\u043B\u044F",
+          "RequiredQuantity": 0.1
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+            "Price": 320.00,
+            "QuantityInStock": 2,
+            "ExpirationDate": "2026-07-10T00:00:00"
+          },
+          "IngredientName": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+          "RequiredQuantity": 0.15
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.02
+        }
+      ],
+      "IngredientDisplay": "\u041A\u0443\u0440\u044F\u0447\u0435 \u0444\u0456\u043B\u0435 - 0,2,\n\u041A\u0430\u0440\u0442\u043E\u043F\u043B\u044F - 0,3,\n\u041C\u043E\u0440\u043A\u0432\u0430 - 0,1,\n\u0426\u0438\u0431\u0443\u043B\u044F - 0,1,\n\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 - 0,15,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,02"
+    },
+    {
+      "Name": "\u042F\u0454\u0447\u043D\u044F \u0437 \u0442\u043E\u043C\u0430\u0442\u0430\u043C\u0438",
+      "RecipeText": "\u041F\u0440\u043E\u0433\u0440\u0456\u0439\u0442\u0435 \u0442\u043E\u043C\u0430\u0442\u043D\u0443 \u043F\u0430\u0441\u0442\u0443 \u043D\u0430 \u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0456 \u0437 \u043E\u043B\u0456\u0454\u044E, \u0440\u043E\u0437\u0431\u0438\u0439\u0442\u0435 \u0437\u0432\u0435\u0440\u0445\u0443 \u044F\u0439\u0446\u044F \u0456 \u0441\u043C\u0430\u0436\u0442\u0435 \u0434\u043E \u0433\u043E\u0442\u043E\u0432\u043D\u043E\u0441\u0442\u0456 \u0436\u043E\u0432\u0442\u043A\u0456\u0432.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u042F\u0439\u0446\u044F",
+            "Price": 65.00,
+            "QuantityInStock": 30,
+            "ExpirationDate": "2026-06-20T00:00:00"
+          },
+          "IngredientName": "\u042F\u0439\u0446\u044F",
+          "RequiredQuantity": 3
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+            "Price": 85.50,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2027-01-10T00:00:00"
+          },
+          "IngredientName": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "Price": 65.00,
+            "QuantityInStock": 3,
+            "ExpirationDate": "2027-02-20T00:00:00"
+          },
+          "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+          "RequiredQuantity": 0.02
+        }
+      ],
+      "IngredientDisplay": "\u042F\u0439\u0446\u044F - 3,\n\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430 - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,02"
+    },
+    {
+      "Name": "\u0421\u043E\u043B\u043E\u0434\u043A\u0456 \u043C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+      "RecipeText": "\u0412\u0456\u0434\u0432\u0430\u0440\u0456\u0442\u044C \u043C\u0430\u043A\u0430\u0440\u043E\u043D\u0438, \u0437\u043B\u0438\u0439\u0442\u0435 \u0432\u043E\u0434\u0443. \u0414\u043E\u0434\u0430\u0439\u0442\u0435 \u0442\u0440\u043E\u0445\u0438 \u043C\u043E\u043B\u043E\u043A\u0430 \u0442\u0430 \u0446\u0443\u043A\u0440\u0443, \u043F\u0440\u043E\u0433\u0440\u0456\u0439\u0442\u0435 1 \u0445\u0432\u0438\u043B\u0438\u043D\u0443.",
+      "Ingredients": [
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+            "Price": 55.00,
+            "QuantityInStock": 8,
+            "ExpirationDate": "2027-05-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+          "RequiredQuantity": 0.2
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u041C\u043E\u043B\u043E\u043A\u043E",
+            "Price": 40.00,
+            "QuantityInStock": 5,
+            "ExpirationDate": "2026-06-01T00:00:00"
+          },
+          "IngredientName": "\u041C\u043E\u043B\u043E\u043A\u043E",
+          "RequiredQuantity": 0.05
+        },
+        {
+          "IngredientProduct": {
+            "Name": "\u0426\u0443\u043A\u043E\u0440",
+            "Price": 35.00,
+            "QuantityInStock": 10,
+            "ExpirationDate": "2028-01-01T00:00:00"
+          },
+          "IngredientName": "\u0426\u0443\u043A\u043E\u0440",
+          "RequiredQuantity": 0.03
+        }
+      ],
+      "IngredientDisplay": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 - 0,2,\n\u041C\u043E\u043B\u043E\u043A\u043E - 0,05,\n\u0426\u0443\u043A\u043E\u0440 - 0,03"
+    }
+  ],
+  "Menu": {
+    "Date": "2026-05-26T00:00:00",
+    "PersonsCount": 1,
+    "SelectedDishes": [
+      {
+        "Name": "\u0421\u043C\u0430\u0436\u0435\u043D\u0456 \u043F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 \u0432 \u0442\u043E\u043C\u0430\u0442\u043D\u043E\u043C\u0443 \u0441\u043E\u0443\u0441\u0456",
+        "RecipeText": "\u0420\u043E\u0437\u0456\u0433\u0440\u0456\u0439\u0442\u0435 \u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0443 \u0437 \u043E\u043B\u0456\u0454\u044E. \u041E\u0431\u0441\u043C\u0430\u0436\u0442\u0435 \u043F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 \u0434\u043E \u0437\u043E\u043B\u043E\u0442\u0438\u0441\u0442\u043E\u0457 \u0441\u043A\u043E\u0440\u0438\u043D\u043A\u0438. \u0414\u043E\u0434\u0430\u0439\u0442\u0435 \u0442\u043E\u043C\u0430\u0442\u043D\u0443 \u043F\u0430\u0441\u0442\u0443, \u0442\u0440\u043E\u0445\u0438 \u0432\u043E\u0434\u0438 \u0456 \u0442\u0443\u0448\u043A\u0443\u0439\u0442\u0435 \u043F\u0456\u0434 \u043A\u0440\u0438\u0448\u043A\u043E\u044E 10 \u0445\u0432\u0438\u043B\u0438\u043D.",
+        "Ingredients": [
+          {
+            "IngredientProduct": {
+              "Name": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456",
+              "Price": 120.00,
+              "QuantityInStock": 10,
+              "ExpirationDate": "2026-08-15T00:00:00"
+            },
+            "IngredientName": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456",
+            "RequiredQuantity": 0.25
+          },
+          {
+            "IngredientProduct": {
+              "Name": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+              "Price": 85.50,
+              "QuantityInStock": 5,
+              "ExpirationDate": "2027-01-10T00:00:00"
+            },
+            "IngredientName": "\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430",
+            "RequiredQuantity": 0.05
+          },
+          {
+            "IngredientProduct": {
+              "Name": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+              "Price": 65.00,
+              "QuantityInStock": 3,
+              "ExpirationDate": "2027-02-20T00:00:00"
+            },
+            "IngredientName": "\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430",
+            "RequiredQuantity": 0.02
+          }
+        ],
+        "IngredientDisplay": "\u041F\u0435\u043B\u044C\u043C\u0435\u043D\u0456 - 0,25,\n\u0422\u043E\u043C\u0430\u0442\u043D\u0430 \u043F\u0430\u0441\u0442\u0430 - 0,05,\n\u041E\u043B\u0456\u044F \u0441\u043E\u043D\u044F\u0448\u043D\u0438\u043A\u043E\u0432\u0430 - 0,02"
+      },
+      {
+        "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 \u0437 \u0441\u0438\u0440\u043E\u043C",
+        "RecipeText": "\u0412\u0456\u0434\u0432\u0430\u0440\u0456\u0442\u044C \u043C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 \u0443 \u043F\u0456\u0434\u0441\u043E\u043B\u0435\u043D\u0456\u0439 \u0432\u043E\u0434\u0456. \u0417\u043B\u0438\u0439\u0442\u0435 \u0432\u043E\u0434\u0443, \u0434\u043E\u0434\u0430\u0439\u0442\u0435 \u043D\u0430\u0442\u0435\u0440\u0442\u0438\u0439 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 \u0441\u0438\u0440 \u0442\u0430 \u043F\u0435\u0440\u0435\u043C\u0456\u0448\u0430\u0439\u0442\u0435.",
+        "Ingredients": [
+          {
+            "IngredientProduct": {
+              "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+              "Price": 55.00,
+              "QuantityInStock": 8,
+              "ExpirationDate": "2027-05-01T00:00:00"
+            },
+            "IngredientName": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438",
+            "RequiredQuantity": 0.2
+          },
+          {
+            "IngredientProduct": {
+              "Name": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+              "Price": 320.00,
+              "QuantityInStock": 2,
+              "ExpirationDate": "2026-07-10T00:00:00"
+            },
+            "IngredientName": "\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439",
+            "RequiredQuantity": 0.1
+          }
+        ],
+        "IngredientDisplay": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u0438 - 0,2,\n\u0421\u0438\u0440 \u0442\u0432\u0435\u0440\u0434\u0438\u0439 - 0,1"
+      }
+    ]
+  }
+}
